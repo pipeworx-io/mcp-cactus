@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/cactus",
   "title": "Cactus",
   "description": "NCI CACTUS Chemical Identifier Resolver MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/cactus",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-cactus",
