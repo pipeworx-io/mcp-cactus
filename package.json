@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cactus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NCI CACTUS Chemical Identifier Resolver MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "cactus",
     "gatewaySlug": "cactus",
-    "sourceHash": "v1-ac49e2f6e75fc60ab5d9da1a9a19314673c933d03c38f7ac423eaab0decb8ea7",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-b69c5573d70277b9f8c1ecbf15bd323e84e3924dcca30a95c01488a074cd1ea0",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
